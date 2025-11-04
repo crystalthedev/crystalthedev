@@ -1,16 +1,30 @@
-## Hi there 👋
+<!-- banner -->
+<h1 align="center">
+  <img src="https://emojicdn.elk.sh/💖" width="28"/> Crystal 
+</h1>
 
-<!--
-**crystalthedev/crystalthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>kitkat</b><br>
+  <img src="https://img.shields.io/badge/fullstack-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/meow-FFB6C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/burning-passion-FF6B6B?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  socials
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crystalthedev)
+
+---
+
+<div align="center">
+
+<sub>
+:3 thanks for visiting!  
+<code>₍^. .^₎⟆</code>
+</sub>
+
+</div>
