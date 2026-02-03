@@ -1,6 +1,6 @@
-<!-- banner -->
+
 <h1 align="center">
-  <img src="https://emojicdn.elk.sh/💖" width="28"/> Crystal 
+  <img src="https://emojicdn.elk.sh/💖" width="28"/> CodeAdapter 
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ###  socials
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crystalthedev)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeAdapter)
 
 ---
 
